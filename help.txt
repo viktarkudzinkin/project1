@@ -1,2 +1,4 @@
 help v0.01
 At first install software
+
+Please, read update-info to find new version of our software.
