@@ -1,1 +1,1 @@
-server address: www.new-soft.com
+address: www.new-soft.com
